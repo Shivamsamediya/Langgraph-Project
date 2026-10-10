@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langgraph
+duckduckgo-search
+python-dotenv
